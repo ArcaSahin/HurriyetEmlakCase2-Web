@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42158" started-at="2021-03-17T22:26:41Z" finished-at="2021-03-17T22:27:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42158" started-at="2021-03-17T22:26:41Z" finished-at="2021-03-17T22:27:24Z">
+      <class name="Tests.TestScenarios">
+        <test-method status="PASS" signature="BasePageNavigation()[pri:0, instance:Tests.TestScenarios@61832929]" name="BasePageNavigation" duration-ms="14753" started-at="2021-03-18T01:26:41Z" finished-at="2021-03-18T01:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigation -->
+        <test-method status="PASS" signature="goTo_ForRentPage()[pri:1, instance:Tests.TestScenarios@61832929]" name="goTo_ForRentPage" duration-ms="161" started-at="2021-03-18T01:26:56Z" finished-at="2021-03-18T01:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goTo_ForRentPage -->
+        <test-method status="PASS" signature="selectCity()[pri:2, instance:Tests.TestScenarios@61832929]" name="selectCity" duration-ms="6026" started-at="2021-03-18T01:26:56Z" finished-at="2021-03-18T01:27:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCity -->
+        <test-method status="PASS" signature="selectCounty()[pri:3, instance:Tests.TestScenarios@61832929]" name="selectCounty" duration-ms="4451" started-at="2021-03-18T01:27:02Z" finished-at="2021-03-18T01:27:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCounty -->
+        <test-method status="PASS" signature="selectRoomAndsearchAll()[pri:4, instance:Tests.TestScenarios@61832929]" name="selectRoomAndsearchAll" duration-ms="7192" started-at="2021-03-18T01:27:07Z" finished-at="2021-03-18T01:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRoomAndsearchAll -->
+        <test-method status="PASS" signature="gotoListingPage()[pri:5, instance:Tests.TestScenarios@61832929]" name="gotoListingPage" duration-ms="5246" started-at="2021-03-18T01:27:14Z" finished-at="2021-03-18T01:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoListingPage -->
+        <test-method status="PASS" signature="showPhoneNumber()[pri:6, instance:Tests.TestScenarios@61832929]" name="showPhoneNumber" duration-ms="4284" started-at="2021-03-18T01:27:19Z" finished-at="2021-03-18T01:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showPhoneNumber -->
+      </class> <!-- Tests.TestScenarios -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
